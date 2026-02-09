@@ -2,7 +2,7 @@
 
 -----
 
-Hatch's value proposition is that if you adopt all functionality then many other tools become unnecessary since there is support for everything you might require. Further, if you choose to use only specific features then there are still benefits compared to alternatives.
+The high level value proposition of Hatch is that if one adopts all functionality then many other tools become unnecessary since there is support for everything one might require. Further, if one chooses to use only specific features then there are still benefits compared to alternatives.
 
 ## Build backend
 
