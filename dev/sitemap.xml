@@ -41,23 +41,27 @@
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
-         <loc>https://hatch.pypa.io/dev/blog/posts/release-hatch-1100/</loc>
+         <loc>https://hatch.pypa.io/dev/blog/2024/05/02/hatch-v1100/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
-         <loc>https://hatch.pypa.io/dev/blog/posts/release-hatch-1160/</loc>
+         <loc>https://hatch.pypa.io/dev/blog/2025/11/24/hatch-v1160/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
-         <loc>https://hatch.pypa.io/dev/blog/posts/release-hatch-160/</loc>
+         <loc>https://hatch.pypa.io/dev/blog/2026/05/30/hatch-v1170/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
-         <loc>https://hatch.pypa.io/dev/blog/posts/release-hatch-180/</loc>
+         <loc>https://hatch.pypa.io/dev/blog/2022/10/08/hatch-v160/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
-         <loc>https://hatch.pypa.io/dev/blog/posts/release-hatch-190/</loc>
+         <loc>https://hatch.pypa.io/dev/blog/2023/12/11/hatch-v180/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/2023/12/18/hatch-v190/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
@@ -125,11 +129,19 @@
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
+         <loc>https://hatch.pypa.io/dev/config/internal/type-checking/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
          <loc>https://hatch.pypa.io/dev/history/hatch/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
          <loc>https://hatch.pypa.io/dev/history/hatchling/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/how-to/config/constrain-hatch/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
     <url>
@@ -306,6 +318,30 @@
     </url>
     <url>
          <loc>https://hatch.pypa.io/dev/tutorials/testing/overview/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/archive/2026/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/archive/2025/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/archive/2024/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/archive/2023/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/archive/2022/</loc>
+         <lastmod>2020-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://hatch.pypa.io/dev/blog/category/release/</loc>
          <lastmod>2020-02-02</lastmod>
     </url>
 </urlset>
